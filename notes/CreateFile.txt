@@ -1,0 +1,1 @@
+This is a file contains the notes I take when learning the JavaSE, all the codes are based on JDK1.5
